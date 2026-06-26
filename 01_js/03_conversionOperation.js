@@ -28,6 +28,7 @@ console.log(booleanIsLoggedIn)
 1=>true; 0=>false
 ""=>false ; "aniket"=> true
 null => false ; undefined => false
+similarly for strings
 
 */
 
